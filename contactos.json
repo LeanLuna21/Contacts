@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Leandro",
+        "apellido": "Luna",
+        "telefono": "1133664455",
+        "direccion": "afad asd 41"
+    },
+    {
+        "nombre": "Sandra",
+        "apellido": "Vallejo",
+        "telefono": "651321365132",
+        "direccion": "asdasd ad 21"
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "Luna",
+        "telefono": "32132416",
+        "direccion": "asdgasdfg 231"
+    }
+]
